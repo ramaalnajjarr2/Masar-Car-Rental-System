@@ -65,7 +65,40 @@ The system allows users to create accounts, log in, view available cars, rent ve
 ![Rental Process](Screenshots/rental-process.png)
 
 ---
+## 🚀 How to Run the Project
 
+### Requirements
+
+Before running the project, make sure you have:
+
+- Java JDK installed
+- NetBeans IDE installed
+
+### Steps
+
+1. Clone the repository using Git:
+
+```bash
+git clone https://github.com/ramaalnajjarr2/Masar-Car-Rental-System.git
+```
+
+2. Open the project using NetBeans:
+
+```
+File → Open Project → Select Masar-Car-Rental-System
+```
+
+3. Run the project from NetBeans.
+
+### Alternative Method
+
+You can also download the project as a ZIP file:
+
+```
+GitHub → Code → Download ZIP
+```
+
+Then extract the folder and open the project using NetBeans.
 ## 🎯 Purpose
 
 This project was developed to practice Java programming concepts and Object-Oriented Programming principles.
