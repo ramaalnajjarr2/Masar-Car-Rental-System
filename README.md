@@ -32,37 +32,37 @@ The system allows users to create accounts, log in, view available cars, rent ve
 
 ### 🔐 Login Screen
 
-![Login](screenshots/login.png)
+![Login](Screenshots/login.png)
 
 ---
 
 ### 📝 Sign In Screen
 
-![Sign In](screenshots/signin.png)
+![Sign In](Screenshots/signin.png)
 
 ---
 
 ### 👤 Account Information
 
-![Account Info](screenshots/account-info.png)
+![Account Info](Screenshots/account-info.png)
 
 ---
 
 ### 🚗 Car List
 
-![Car List](screenshots/car-list.png)
+![Car List](Screenshots/car-list.png)
 
 ---
 
 ### 📋 Car State
 
-![Car State](screenshots/car-state.png)
+![Car State](Screenshots/car-state.png)
 
 ---
 
 ### 🚙 Rental Process
 
-![Rental Process](screenshots/rental-process.png)
+![Rental Process](Screenshots/rental-process.png)
 
 ---
 
