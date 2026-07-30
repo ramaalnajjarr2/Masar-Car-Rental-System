@@ -73,32 +73,43 @@ Before running the project, make sure you have:
 
 - Java JDK installed
 - NetBeans IDE installed
+- Git installed (if you want to clone the repository)
 
 ### Steps
 
-1. Clone the repository using Git:
+1. Open Command Prompt (CMD) or Terminal.
+
+2. Navigate to the location where you want to save the project.
+
+Example:
+
+```bash
+cd Desktop
+```
+
+3. Clone the repository:
 
 ```bash
 git clone https://github.com/ramaalnajjarr2/Masar-Car-Rental-System.git
 ```
 
-2. Open the project using NetBeans:
+4. Open the downloaded project folder using NetBeans:
 
 ```
 File → Open Project → Select Masar-Car-Rental-System
 ```
 
-3. Run the project from NetBeans.
+5. Run the project from NetBeans.
 
 ### Alternative Method
 
-You can also download the project as a ZIP file:
+You can download the project as a ZIP file:
 
 ```
 GitHub → Code → Download ZIP
 ```
-
 Then extract the folder and open the project using NetBeans.
+---
 ## 🎯 Purpose
 
 This project was developed to practice Java programming concepts and Object-Oriented Programming principles.
